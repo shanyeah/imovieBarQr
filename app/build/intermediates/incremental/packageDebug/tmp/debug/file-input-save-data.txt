@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Jun 19 10:49:00 CST 2018
+1.base=F\:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=F\:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=NATIVE_RESOURCE
+0.path=lib/x86/liblspclient_jni.so
+0.set=NATIVE_RESOURCE
+0.base=F\:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.baseType=DIRECTORY
+1.path=lib/armeabi/liblspclient_jni.so

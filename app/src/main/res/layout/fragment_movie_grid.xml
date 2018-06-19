@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/view_bg">
+
+    <include
+            android:id="@+id/progress_include"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            layout="@layout/progress"
+            android:background="@drawable/view_bg"/>
+
+    <GridView
+            android:id="@+id/grid_movie_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/progress_include"
+            android:horizontalSpacing="0dp"
+            android:numColumns="auto_fit"
+            android:paddingBottom="4dp"
+            android:paddingTop="4dp"
+            android:verticalSpacing="6dp">
+    </GridView>
+
+</RelativeLayout>

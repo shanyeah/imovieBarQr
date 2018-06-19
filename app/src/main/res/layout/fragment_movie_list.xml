@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:background="#222222">
+
+    <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fadingEdge="none"
+            android:scrollbars="none" android:background="@drawable/item_button_default">
+        <RadioGroup
+                android:id="@+id/catalog_radio_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:orientation="horizontal" android:background="@drawable/item_button_default">
+
+        </RadioGroup>
+    </HorizontalScrollView>
+    <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fadingEdge="none"
+            android:scrollbars="none" android:background="@drawable/item_button_default">
+        <RadioGroup
+                android:id="@+id/area_radio_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:orientation="horizontal" android:background="@drawable/item_button_default">
+
+        </RadioGroup>
+    </HorizontalScrollView>
+    <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fadingEdge="none"
+            android:scrollbars="none" android:background="@drawable/item_button_default">
+        <RadioGroup
+                android:id="@+id/year_radio_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:orientation="horizontal" android:background="@drawable/item_button_default">
+
+        </RadioGroup>
+    </HorizontalScrollView>
+    <include layout="@layout/progress" android:layout_width="match_parent" android:layout_height="4dp"/>
+    <GridView
+            android:id="@+id/gvMovieList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:verticalSpacing="@dimen/gird_vertical_spacing"
+            android:gravity="center"
+            android:background="@drawable/view_bg">
+    </GridView>
+</LinearLayout>
+

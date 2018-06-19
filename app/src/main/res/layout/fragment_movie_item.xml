@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+	<ImageView
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:src="@drawable/movie_default"
+	    android:scaleType="center"
+	    android:adjustViewBounds="false" 
+	    android:background="#ffffff" 
+	    android:contentDescription="@string/empty_string" />    
+    
+	<ImageView
+	    android:id="@+id/ivMovieImage"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:scaleType="centerCrop"
+	    android:adjustViewBounds="false" 
+	    android:contentDescription="@string/empty_string" />
+
+    <TextView
+            android:id="@+id/tvEwatchName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/ivMovieImage"
+            android:textSize="@dimen/movie_list_item_text_size"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:lines="2"
+            android:background="#7f000000" />
+
+    <TextView
+	    android:id="@+id/tvMovieName"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignBottom="@id/ivMovieImage"
+	    android:textSize="@dimen/movie_list_item_text_size"
+	    android:textColor="#FFFFFF"
+	    android:gravity="center" 
+	    android:lines="2"
+	    android:background="#7f000000" />        
+
+</RelativeLayout>

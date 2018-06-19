@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\universal-image-loader-1.8.4_979e45dd91f7db2526dff6b59a75d743c33427ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\iMoviebar-QR\app\libs\bossware-lang-jdk16.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cf9ea8aeb2aaa53f70ae2d036404e1655f0ef5d">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\transforms\dex\debug\folders\1000\2\bossware-lang-jdk16_74fb0485ff1d4405e87e5fe4ae1e80d983e58187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\iMoviebar-QR\app\libs\androidhelper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="837de21fb2269da0ff0dcfcb48ab88867d4226bb">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\transforms\dex\debug\folders\1000\2\androidhelper_307b57970963c0d224582c6b8da3836a6b860f29\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\bossware-lang-jdk16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cf9ea8aeb2aaa53f70ae2d036404e1655f0ef5d">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\bossware-lang-jdk16_74fb0485ff1d4405e87e5fe4ae1e80d983e58187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\androidhelper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="837de21fb2269da0ff0dcfcb48ab88867d4226bb">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\androidhelper_307b57970963c0d224582c6b8da3836a6b860f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\universal-image-loader-1.8.4_979e45dd91f7db2526dff6b59a75d743c33427ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\bossware-lang-jdk16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cf9ea8aeb2aaa53f70ae2d036404e1655f0ef5d">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\bossware-lang-jdk16_74fb0485ff1d4405e87e5fe4ae1e80d983e58187.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\iMoviebar-QR\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e944d19134e2562d7f2eca9e83c4f6ad52454df5">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6d6ce5746ce83d90eecbe487b4ef19e82ba3db9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\iMoviebar-QR\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5ecf33ff84f0f99e8e5cf0ce1726069aa1b1b8d">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a9b52ae6cfed47fc233ab5cc8caffb1dba706994\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\butterknife-5.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34f9a9915c4ac33f97a9339f4caad41cb02638d8">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\butterknife-5.0.0_7f026138ca528a08240ad5fac0c7dff5d9c9ab21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\core-3.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="31df4d2a7105d269e3b5c2011091e3ebdf1a8f93">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\core-3.2.2_19b17b7147dffec9360908345355ca4b39f8e6c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\iMoviebar-QR\app\libs\core-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="31df4d2a7105d269e3b5c2011091e3ebdf1a8f93">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.2.2_19b17b7147dffec9360908345355ca4b39f8e6c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\androidhelper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="837de21fb2269da0ff0dcfcb48ab88867d4226bb">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\androidhelper_307b57970963c0d224582c6b8da3836a6b860f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\butterknife-5.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="34f9a9915c4ac33f97a9339f4caad41cb02638d8">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\butterknife-5.0.0_7f026138ca528a08240ad5fac0c7dff5d9c9ab21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\iMoviebar-QR\app\libs\core-3.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31df4d2a7105d269e3b5c2011091e3ebdf1a8f93">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\pre-dexed\release\core-3.2.2_19b17b7147dffec9360908345355ca4b39f8e6c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\iMoviebar-QR\app\libs\butterknife-5.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="34f9a9915c4ac33f97a9339f4caad41cb02638d8">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\transforms\dex\debug\folders\1000\2\butterknife-5.0.0_7f026138ca528a08240ad5fac0c7dff5d9c9ab21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\iMoviebar-QR\app\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="F:\iMoviebar-QR\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.4_979e45dd91f7db2526dff6b59a75d743c33427ab\classes.dex" />
+    </item>
+
+</items>

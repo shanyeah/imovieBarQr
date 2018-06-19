@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_thumb_style.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\seekbar_thumb_style.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ht_splash.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_ht_splash.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_confirm.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\confirm.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bar_fox_tail.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\progress_bar_fox_tail.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\splash1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_transparent.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-xxhdpi\\transparent.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_icon_stop.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_icon_stop.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_error.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\layout_error.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_5.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_5.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_footer_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\footer_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_selected_movie.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_selected_movie.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_movie.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\new_movie.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_boxmode_config.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_boxmode_config.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_base.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\btn_base.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pause.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_tab_selector.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\home_tab_selector.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_solid_bg4_corner.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\bg_solid_bg4_corner.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_playmovie_console.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\playmovie_console.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qet_delete1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\qet_delete1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_border_3.9.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\border_3.9.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prev.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\prev.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_4.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_4.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_footer.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\layout_footer.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_image_fox_tail.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-xxhdpi\\progress_image_fox_tail.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movie_error.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\movie_error.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_icon_play.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_icon_play.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\download1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_3_g.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_3_g.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seabar_input1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\seabar_input1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_movie_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\movie_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_4_g.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_4_g.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\radio.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_movie_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_play_task_log_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_play_task_log_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_5_g.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_5_g.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_m_refresh.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\m_refresh.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favorite_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\favorite_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_item_selected.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\menu_item_selected.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_1_g.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_1_g.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_2_g.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_2_g.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_movie.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_style_drawable.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\seekbar_style_drawable.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_movie.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_order_movie.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_2.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_2.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_movie1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\new_movie1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_blue_pressed.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\btn_blue_pressed.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_update_player.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_update_player.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item_button.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\item_button.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_volume_minus.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\volume_minus.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_m_recomment.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\m_recomment.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_icon_slider_pressed.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_icon_slider_pressed.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_popmenu.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\ic_popmenu.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_footer_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\footer_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_icon_slider.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_icon_slider.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_login.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_selected_bg.9.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-xxhdpi\\player_selected_bg.9.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_icon_pause.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_icon_pause.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dot_r.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\dot_r.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_recomment1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\recomment1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ewatch.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\item_ewatch.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sound.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\sound.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_confirm1.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_confirm1.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item_button_default.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\item_button_default.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_empty_view.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\empty_view.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_footer.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_footer.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_volume_plus.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\volume_plus.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_selected.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\item_selected.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_radio.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\radio.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie_list.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_movie_list.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pay_bill_ok_btn.9.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\pay_bill_ok_btn.9.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m_l_line.jpg.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\m_l_line.jpg"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_ordermovie_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\ordermovie_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_m_recomment1.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\m_recomment1.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_m_im_logo.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\m_im_logo.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_view_bg.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\view_bg.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_play_position.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_play_position.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo11.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\logo11.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_starting.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\starting.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie_detail.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_movie_detail.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_player.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_logo.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-xxhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_line_buffer.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_line_buffer.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_top_bar.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\bg_top_bar.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie_grid.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_movie_grid.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wait_loading.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\layout_wait_loading.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_1_y.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_1_y.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_3_y.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_3_y.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_2_y.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_2_y.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seabar_input.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\seabar_input.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_5_y.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_5_y.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_menu.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_line_red.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_line_red.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_6.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_6.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_4_y.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_4_y.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_item.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\text_item.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_6_y.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_6_y.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movie_default.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\movie_default.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_3.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\tab_3.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_balcony.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\activity_balcony.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_conserver_config.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_conserver_config.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progressbar.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-xxhdpi\\progressbar.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_line_down.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\player_line_down.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_im_logo.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\im_logo.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_footer_item_selected.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\footer_item_selected.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_recomment.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\recomment.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_config.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_config.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_player_btn.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable\\bg_player_btn.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qet_delete.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\qet_delete.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_roomtype.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\menu\\popup_roomtype.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play_press_btn.png.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\drawable-hdpi\\play_press_btn.png"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ewatch_select.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\fragment_ewatch_select.xml"
+    },
+    {
+        "merged": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_progress.xml.flat",
+        "source": "F:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    }
+]

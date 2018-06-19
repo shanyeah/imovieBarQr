@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<TextView
+		android:id="@+id/tvInfo"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="50dp"
+		android:layout_marginLeft="30dp"
+		android:layout_marginRight="30dp"		
+		android:textSize="20sp" />
+		
+	<RelativeLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/tvInfo"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="50dp" 
+		android:layout_marginBottom="10dp" >	            	            
+	   
+		<Button
+			android:id="@+id/btnYes"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_alignParentLeft="true"			            
+			android:padding="10dp"
+
+			android:layout_marginLeft="20dp"
+			android:layout_marginRight="20dp"
+			android:focusableInTouchMode="true"
+            android:text="马上更新"
+			android:gravity="center" 
+			android:textSize="18sp" />
+			
+		<Button
+			android:id="@+id/btnNo"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_toRightOf="@id/btnYes"
+			android:padding="10dp"
+			android:layout_marginRight="20dp"
+			android:focusable="true"
+			android:text="下次更新"
+			android:gravity="center" 
+			android:textSize="18sp" />
+												 
+	</RelativeLayout>		    	    
+	  		
+</RelativeLayout>

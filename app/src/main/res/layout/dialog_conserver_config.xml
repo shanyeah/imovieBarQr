@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+    <TableLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:layout_gravity="left"
+            android:text="连接服务器："/>
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:padding="8dp">
+
+            <TextView
+                android:id="@+id/tvconServerIp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="IP地址:"
+                android:gravity="center_vertical"
+                android:textSize="18sp"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/tvIp1"
+                    android:labelFor="@id/tvIp1"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:maxLength="3"
+                    android:focusableInTouchMode="true"
+                    android:focusable="true"
+                    android:enabled="true"
+                    android:textSize="20sp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dot_string"
+                    android:textSize="20sp"/>
+
+                <EditText
+                    android:id="@+id/tvIp2"
+                    android:labelFor="@id/tvIp2"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:maxLength="3"
+                    android:focusableInTouchMode="true"
+                    android:focusable="true"
+                    android:enabled="true"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dot_string"
+                    android:textSize="20sp"/>
+
+                <EditText
+                    android:id="@+id/tvIp3"
+                    android:labelFor="@id/tvIp3"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:maxLength="3"
+                    android:focusableInTouchMode="true"
+                    android:focusable="true"
+                    android:enabled="true"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dot_string"
+                    android:textSize="20sp"/>
+
+                <EditText
+                    android:id="@+id/tvIp4"
+                    android:labelFor="@id/tvIp4"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:ems="10"
+                    android:maxLength="3"
+                    android:focusableInTouchMode="true"
+                    android:focusable="true"
+                    android:enabled="true"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:padding="8dp" >
+
+        <Button
+            android:id="@+id/btnOk"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="60dp"
+            android:text="确定" />
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:text="取消" />
+    </RelativeLayout>
+
+</LinearLayout>

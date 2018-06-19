@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#222222">
+
+    <RelativeLayout
+            android:id="@+id/layoutTop"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="#181819"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp">
+
+        <ImageView
+                android:id="@+id/btnMenu"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="4dp"
+                android:background="@drawable/im_logo"
+                android:scaleType="centerInside"
+                android:contentDescription="@string/empty_string"/>
+    </RelativeLayout>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/config_title_padding"
+            android:paddingRight="@dimen/config_title_padding"
+            android:text="请选择包房"
+            android:textColor="@color/split"
+            android:textSize="@dimen/title_font_size"/>
+
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:paddingTop="2dp"
+            android:background="@color/split"/>
+
+    <include layout="@layout/progress" android:layout_width="match_parent" android:layout_height="4dp"/>
+
+    <GridView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:verticalSpacing="@dimen/gird_vertical_spacing"
+            android:gravity="center"
+            android:background="@drawable/view_bg">
+    </GridView>
+
+</LinearLayout>

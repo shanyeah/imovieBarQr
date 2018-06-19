@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:1-82:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\129660834ba9fcd645fea1a97f02b9c6\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4670f65b1a654130fb2fdaa0c36e4441\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:5:5-35
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\129660834ba9fcd645fea1a97f02b9c6\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\129660834ba9fcd645fea1a97f02b9c6\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4670f65b1a654130fb2fdaa0c36e4441\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4670f65b1a654130fb2fdaa0c36e4441\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4670f65b1a654130fb2fdaa0c36e4441\AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+		INJECTED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.SET_PROCESS_FOREGROUND
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:19:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:24:22-65
+application
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:26:5-80:19
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4670f65b1a654130fb2fdaa0c36e4441\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\4670f65b1a654130fb2fdaa0c36e4441\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:29:9-38
+	android:allowBackup
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:31:9-56
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:27:9-38
+activity#cn.com.imovie.imoviebar.activity.SplashActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:32:9-43:20
+	android:label
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:36:13-48
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:35:13-59
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:33:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:41:27-74
+activity#cn.com.imovie.imoviebar.activity.PlayerActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:44:9-47:71
+	android:label
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:46:13-45
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:47:13-59
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:45:13-52
+activity#cn.com.imovie.imoviebar.activity.HtMainActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:48:9-52:60
+	android:label
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:50:13-45
+	android:launchMode
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:52:13-48
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:51:13-59
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:49:13-52
+activity#cn.com.imovie.imoviebar.activity.MovieActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:53:9-57:60
+	android:label
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:55:13-45
+	android:launchMode
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:57:13-48
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:56:13-59
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:54:13-51
+activity#cn.com.imovie.imoviebar.activity.MenuActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:58:9-61:59
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:60:13-59
+	android:theme
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:59:13-50
+activity#cn.com.imovie.imoviebar.activity.SelectedMovieActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:62:9-65:78
+	android:label
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:65:13-66
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:64:13-59
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:63:13-59
+activity#cn.com.imovie.imoviebar.activity.OrderMovieActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:68:9-71:78
+	android:label
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:71:13-66
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:70:13-59
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:69:13-56
+activity#cn.com.imovie.imoviebar.activity.BalconyActivity
+ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:73:9-76:50
+	android:configChanges
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:75:13-59
+	android:theme
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:76:13-47
+	android:name
+		ADDED from F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\AndroidManifest.xml:74:13-53

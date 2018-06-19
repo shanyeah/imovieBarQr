@@ -1,0 +1,4 @@
+#Tue Jun 19 17:26:25 CST 2018
+base.0=F\:\\iMoviebar-QR20170728\\iMoviebar-QR\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

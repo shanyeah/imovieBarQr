@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    
+	<RelativeLayout
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerInParent="true" >    
+	    
+	    <ImageView
+	        android:id="@+id/ivPoster"
+			android:layout_width="@dimen/detail_poster_width"
+			android:layout_height="@dimen/detail_poster_height"
+			android:scaleType="fitXY"
+			android:maxHeight="320dp"
+			android:maxWidth="250dp"
+			android:adjustViewBounds="true"
+	        android:layout_alignParentTop="true"
+	        android:layout_centerHorizontal="true"
+	        android:contentDescription="@string/empty_string"
+			android:layout_margin="8dp"
+			android:src="@drawable/movie_default" />
+	    
+	    <TextView
+	        android:id="@+id/tvName"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@id/ivPoster"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="10dp"
+	        android:textColor="#ff4500"
+	  		android:textSize="28sp" />	
+	  		
+	    <TextView
+	        android:id="@+id/tvInfo"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@id/tvName"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="20dp"
+	        android:textColor="#ff4500"
+	  		android:textSize="28sp" />	    
+	  		
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/tvInfo"
+            android:gravity="center"
+			android:layout_centerHorizontal="true"
+			android:layout_marginTop="20dp" >
+	          
+	        <Button
+	            android:id="@+id/btnAgain"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_margin="@dimen/detail_button_margin"
+				android:padding="@dimen/detail_button_padding"
+	            android:layout_alignParentTop="true"
+	            android:layout_alignParentLeft="true"
+	            android:text="从头播放"
+	            android:gravity="center"
+				android:textSize="@dimen/detail_button_text_size"
+	            android:background="@drawable/btn_base" />	  
+	            
+	        <Button
+	            android:id="@+id/btnContinue"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_margin="@dimen/detail_button_margin"
+				android:padding="@dimen/detail_button_padding"
+	            android:layout_alignParentTop="true"
+	            android:layout_toRightOf="@id/btnAgain"
+	            android:text="继续播放" 
+	            android:gravity="center"
+				android:textSize="@dimen/detail_button_text_size"
+	            android:background="@drawable/btn_base" />	  			        		        			        
+	             	            	                     
+		</RelativeLayout>		   
+		
+	</RelativeLayout>		    
+	  		
+</RelativeLayout>

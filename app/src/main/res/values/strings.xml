@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="allowUpdate">true</string>
+
+    <string name="empty_string"></string>
+    <string name="app_name">选片系统</string>
+    <string name="startup_system">启动系统</string>
+    <string name="wait_loading">正在读取数据,请稍候…</string>
+    <string name="init_waiting">正在初始化数据通信模块，请稍后...</string>
+    <string name="checking_version_update">正在检查版本更新，请稍后...</string>
+    <string name="try_again">再试一次</string>
+    <string name="close_return">关闭返回</string>
+    <string name="movie_list">电影列表</string>
+    <string name="movie_desc">剧情简介</string>
+    <string name="empty" />
+    <string name="dot_string">.</string>
+    <string name="loading_play_status">正在加载播放状态信息</string>
+    <string name="not_connect_server_tips">目前不在主机局域网内\n如已切换,请点击刷新</string>
+    <string name="play_is_free">没有播放节目</string>
+
+    <string name="fmt_server_ip">服务器IP：%s</string>
+    <string name="fmt_expired_time">过期日期：%s</string>
+    <string name="fmt_sn">硬件序列号：%s</string>
+    <string name="fmt_system_version">系统版本号：%s</string>
+    <string name="fmt_register_status_ok">注册状态：已注册</string>
+    <string name="fmt_total_space">全部空间：%sG</string>
+    <string name="fmt_used_space">已用空间：%sG</string>
+    <string name="fmt_free_space">空闲空间：%sG</string>
+    <string name="fmt_current_sn">当前播映机序列号：%s</string>
+    <string name="connectServer">设置连接服务器IP</string>
+    <string name="title_activity_selected_movie">SelectedMovieActivity</string>
+
+    <string name="BoxMode">模式设置：</string>
+    <string name="sale_movie">选片售票模式</string>
+    <string name="select_movie">点片播放模式</string>
+
+    <string name="ok_string">确定</string>
+    <string name="cancel_string">取消</string>
+</resources>

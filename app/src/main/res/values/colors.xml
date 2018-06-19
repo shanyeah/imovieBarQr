@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="gray3_color">#ffc1c5c7</color>
+    <color name="white">#ffffffff</color>
+    <color name="gray2_color">#ff868a8f</color>
+    <color name="translucent_background">#50000000</color>
+    <color name="error_text_color">#ff4500</color>
+
+    <color name="left_background">#2C2C2E</color>
+    <color name="footer_background">#181819</color>
+    <color name="default_background">#222222</color>
+    <color name="split">#00BFFF</color>
+
+    <color name="bg3">#386fd3</color>
+    <color name="bg4">#282828</color>
+    <color name="bg5">#dd000000</color>
+</resources>

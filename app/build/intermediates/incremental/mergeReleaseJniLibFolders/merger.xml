@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\jniLibs"><file name="armeabi/liblspclient_jni.so" path="F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\jniLibs\armeabi\liblspclient_jni.so"/><file name="x86/liblspclient_jni.so" path="F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\main\jniLibs\x86\liblspclient_jni.so"/></source></dataSet><dataSet config="release"><source path="F:\iMoviebar-QR20170728\iMoviebar-QR\app\src\release\jniLibs"/></dataSet></merger>
